@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="true">
+  <item android:drawable="@drawable/full5_6__0" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__1" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__2" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__3" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__4" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__5" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__6" android:duration="@integer/animationSpeed" />
+  <item android:drawable="@drawable/full5_6__7" android:duration="@integer/animationSpeed" />
+</animation-list>

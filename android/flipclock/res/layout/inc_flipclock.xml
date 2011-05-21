@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge 
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/dcHour0">
+	</ImageView>
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" 
+		android:id="@+id/dcHour1" 
+		android:paddingRight="5dp" android:background="#fff">
+	</ImageView>
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:id="@+id/dcMinute0">
+	</ImageView>
+	<ImageView 
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"
+		android:id="@+id/dcMinute1">
+	</ImageView>
+			
+</merge>

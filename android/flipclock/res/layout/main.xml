@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/hello"
+    />
+    
+    <com.dajodi.clock.ui.FlipClock 
+		android:layout_alignParentRight="true"
+		android:layout_alignParentTop="true" 
+		android:id="@+id/cwClock" 
+		android:layout_height="wrap_content" 
+		android:layout_width="wrap_content">
+	</com.dajodi.clock.ui.FlipClock>
+			
+</LinearLayout>
