@@ -1,0 +1,12 @@
+A simple flip clock inspired by http://cnanney.com/journal/code/apple-style-counter-revisited/
+
+Scripts exist to create all the image resources, so you can replace/resize the existing ones to fit your needs.
+
+Sample usage:
+cd scripts
+(edit create.sh ...)
+./create.sh
+./copy.sh ../android/flipclock/res
+(delete any resource files you dont want)
+
+The android app contains a sample activity showing how to use the clock.
