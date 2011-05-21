@@ -1,6 +1,6 @@
 A simple flip clock inspired by http://cnanney.com/journal/code/apple-style-counter-revisited/
 
-Scripts exist to create all the image resources, so you can replace/resize the existing ones to fit your needs.
+Scripts exist to create all the image resources, so you can replace/resize the existing ones to fit your needs.  These are based on imagemagick, so use them at your own risk.
 
 Sample usage:
 cd scripts
